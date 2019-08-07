@@ -1,0 +1,89 @@
+[
+  {
+    "id": 19112831,
+    "name": "Пицца Пепперони с томатами",
+    "description": "",
+    "price": "100",
+    "currency": "UAN",
+    "created": "21-07-2019",
+    "modified": "23-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112832,
+    "name": "Суши",
+    "description": "",
+    "price": "80",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112833,
+    "name": "Суп",
+    "description": "",
+    "price": "50",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112834,
+    "name": "Компот",
+    "description": "",
+    "price": "60",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["drink"]
+  },
+  {
+    "id": 19112835,
+    "name": "Вино",
+    "description": "",
+    "price": "180",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["drink"]
+  },
+  {
+    "id": 19112836,
+    "name": "Узвар",
+    "description": "",
+    "price": "80",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["drink"]
+  },
+  {
+    "id": 19112837,
+    "name": "Салат Цезарь",
+    "description": "",
+    "price": "175",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112838,
+    "name": "Фокача",
+    "description": "",
+    "price": "70",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  }
+]
